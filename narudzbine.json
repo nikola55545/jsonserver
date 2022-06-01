@@ -1,0 +1,18 @@
+{
+    "cars": [
+      {
+        "color": "White",
+        "doors": 3,
+        "id": 0,
+        "image": "https://firebasestorage.googleapis.com/v0/b/cs330-projekat-351510.appspot.com/o/CS330-Slike%2Fbmw%2Fbmw_i8_orange.png?alt=media&token=82bdcf97-73f4-4986-ad69-193320e7bb19",
+        "location": "Belgrade",
+        "manufacturer": "BMW",
+        "manufacturing_year": 2017,
+        "model": "i8",
+        "price_per_day": 299,
+        "seats": 2,
+        "transmission": "Automatic",
+        "type": "Sport"
+      }
+    ]
+}
